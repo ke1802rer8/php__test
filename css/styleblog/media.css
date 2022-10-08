@@ -1,0 +1,26 @@
+@media (max-width: 600px){
+   .display{
+        display: block;
+   }
+   .form__input-block {
+        display: block;
+        
+    }
+    .form__input-item {
+        width: 100%;
+        padding-top: 2rem;
+    }
+    .form__input-block {
+        
+        padding: 1rem 0rem;
+        padding-bottom: 3rem;
+    }
+}
+
+@media (max-width: 420px){
+    .form__container {
+       
+        padding: 2rem;
+        
+    }
+ }

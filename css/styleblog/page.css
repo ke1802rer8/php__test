@@ -1,0 +1,30 @@
+.pagination{
+    display: flex;
+    justify-content: center;
+}
+
+.page__style:not(:last-child), .disabled, .number{
+    margin-right: 0.5rem;
+ 
+   
+}
+.page__style{
+    
+    
+    background-color: rgb(174, 247, 146);
+}
+
+.page__style, .disabled, .number{
+    
+    padding: 1rem;
+    border-radius: 1rem;
+   
+}
+.disabled{
+
+    padding: 1rem;
+    text-decoration: none;
+    color: gray;
+    background-color: rgb(197, 197, 197);
+   
+}

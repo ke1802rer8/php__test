@@ -1,0 +1,40 @@
+.display{
+    display: flex;
+}
+
+.block__third .block{
+    border: none;
+}
+
+.block{
+    padding: 3rem 0rem;
+    width: 100%;
+    border: 1px solid black; 
+}
+
+.block__dotted{
+    border: 1px dotted black; 
+
+}
+
+.fl{
+    float: right;
+}
+
+.block__one{
+    
+    display: block;
+    padding: 3rem 0rem;
+}
+
+.block__one h1{
+    font-size: 1.9rem;
+
+}
+.block__width-min{
+    width: 33%;
+}
+
+.block__width-big{
+    width: 67%;
+}

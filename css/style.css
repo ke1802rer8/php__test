@@ -1,0 +1,27 @@
+@import "reset.css";
+
+@import "styleblog/container.css";
+@import "styleblog/block.css";
+@import "styleblog/background-color.css";
+@import "styleblog/popup.css";
+@import "styleblog/form.css";
+@import "styleblog/btn.css";
+@import "styleblog/media.css";
+@import "styleblog/page.css";
+html{
+    font-size: 62.5%;
+}
+
+body {
+    background-color: #fff;
+    font-size: 2.5rem;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", 
+    "Segoe UI Symbol", "Noto Color Emoji";
+    
+}
+
+
+
